@@ -1,0 +1,40 @@
+{
+    "configs": [
+	{
+            "method": "aes-256-cfb",
+            "password": "N2I2ODgzZT",
+            "remarks": "California",
+            "server": "23.105.223.77",
+            "server_port": 443
+	}
+	,
+	{
+            "method": "aes-256-cfb",
+            "password": "laozhang",
+            "remarks": "California2",
+            "server": "138.128.220.107",
+            "server_port": 443
+	}
+	,
+	{
+            "method": "aes-256-cfb",
+            "password": "laozhang",
+            "remarks": "Arizona",
+            "server": "laozhang.tk",
+            "server_port": 443
+	}
+	,
+	{
+            "method": "aes-256-cfb",
+            "password": "laozhang",
+            "remarks": "california",
+            "server": "nginxgoogle.com",
+            "server_port": 8964
+	}
+	
+    ],
+    "localPort": 1080,
+    "shareOverLan": false
+}
+
+
